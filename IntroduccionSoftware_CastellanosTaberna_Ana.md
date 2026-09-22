@@ -1,4 +1,4 @@
-# 1DAMP\_CastellanosTaberna\_Ana
+# 
 
 \# Introducción Software
 
@@ -10,9 +10,9 @@
 
 
 
-\## Diferencia entre código fuente, código objeto y código ejecutable.
+\## Diferencia entre código fuente, código objeto y código ejecutable
 
-El código fuente es escrito por el programador, se utiliza un lenguaje de programación. Estaa pensado para qur pueda ser líedo y entendido por las personas.
+El código fuente es escrito por el programador, se utiliza un lenguaje de programación. Esta pensado para que pueda ser leído y entendido por las personas.
 
 Por otro lado, el código objeto es el código fuente tras ser compilado. Esta en formato binario y no puede ejecutarse por sí solo. Puede necesitar ser enlazado con otras partes para crear el programa final.
 
