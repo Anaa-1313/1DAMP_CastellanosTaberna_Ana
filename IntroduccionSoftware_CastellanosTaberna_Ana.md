@@ -2,11 +2,11 @@
 
 \#Introduccion Software
 
-\## ¿Qué es un programa informático?
+\##¿Qué es un programa informático?
 
 &#x20;Un programa informático es una serie de instrucciones que el ordenadoe sigue para realizar una tarea específica. Estos se escriben en lenguajes de programación.
 
-\## Diferencia entre código fuente, código objeto y código ejecutable.
+\##Diferencia entre código fuente, código objeto y código ejecutable.
 
 El código fuente es escrito por el programador, se utiliza un lenguaje de programación. Estaa pensado para qur pueda ser líedo y entendido por las personas.
 
@@ -14,7 +14,7 @@ Por otro lado, el código objeto es el código fuente tras ser compilado. Esta e
 
 Por último, el código ejecutable es el resultado final. Es un archivo binario que puede ser ejecutado por el sistema operativo.
 
-\## Etapas  del desarrollo del software
+\##Etapas  del desarrollo del software
 
 Primero se realiza la planificación, en la que se establecen los objetivos, los recursos, el tiempo y las necesidades del proyecto.
 
@@ -30,5 +30,5 @@ Una vez diseñado, se pasa a la programación, donde los desarrolladores ese enc
 
 
 
-\[Repositorio](https://github.com/Anaa-1313/1DAMP\_CastellanosTaberna\_Ana.git)
+\[Repositorio\*](https://github.com/Anaa-1313/1DAMP\_CastellanosTaberna\_Ana.git)
 
