@@ -17,4 +17,4 @@ Una vez diseñado, se pasa a la programación, donde los desarrolladores ese enc
 
 ![Logo Git](https://img.icons8.com/external-those-icons-flat-those-icons/1200/external-Git-Logo-social-media-those-icons-flat-those-icons.jpg)
 
-[Repositorio](https://github.com/Anaa-1313/1DAMP_CastellanosTaberna_Ana.git)
+[Repositorio](imagenes/Git-Logo.jpg)
