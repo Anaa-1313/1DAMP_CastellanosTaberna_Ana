@@ -15,6 +15,6 @@ Tras esto, se realiza el análisis, en la cual se estudia qué debe hacer el sof
 
 Una vez diseñado, se pasa a la programación, donde los desarrolladores ese encargan de escribir el código y construir el software. Después se realizan las pruebas para detectar y corregir errores y comprobar que el programa funciona correctamente. Una vez  que el software este preparado, se lleva a cabo la implementación, que consiste en ponerlo en funcionamiento para que pueda ser utilizado. Finalmente, está el mantenimiento, mediante el cual se corrigen errores, se realizan actualizaciones y se incorporan mejoras para que el software siga funcionando correctamente con el paso del tiempo. La página también destaca la documentación, que recoge información sobre el funcionamiento y desarrollo del sistema para facilitar su uso y futuras modificaciones.
 
-![Logo Git](![Logo de Git](imagenes/Git-Logo.jpg)
+![Logo de Git](imagenes/Git-Logo.jpg)
 
 [Repositorio](https://github.com/Anaa-1313/1DAMP_CastellanosTaberna_Ana.git)
